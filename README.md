@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating your dependencies &lpar;node&rpar;](https://blog.devgenius.io/updating-your-dependencies-node-1df408cf4f7f?source=rss-afcbddbe6f2------2)
+- [Adding a Graphql endpoint to an existing RESTful NodeJs [express] Backend with Multiple  Databases](https://blog.devgenius.io/adding-a-graphql-endpoint-to-an-existing-restful-nodejs-express-backend-with-multiple-databases-b7cd309b84e9?source=rss-afcbddbe6f2------2)
 - [Development on a weak system…](https://blog.devgenius.io/development-on-a-weak-system-bdf054690dab?source=rss-afcbddbe6f2------2)
 - [WFH as a Developer &lpar;after 1 year&rpar;](https://ahrenpradhan.medium.com/wfh-as-a-developer-after-1-year-be26add6d5a?source=rss-afcbddbe6f2------2)
 - [The ideal desk setup for web development I ended up with and why…](https://ahrenpradhan.medium.com/the-ideal-desk-setup-for-web-development-i-ended-up-with-and-why-2400a3237736?source=rss-afcbddbe6f2------2)
-- [Starting to work as a freelancer…](https://ahrenpradhan.medium.com/starting-to-work-as-a-freelancer-6e3fadac4277?source=rss-afcbddbe6f2------2)
-- [Going through someone else&#39;s code…? What others face &lpar;including me&rpar; and how to tackle it.](https://blog.devgenius.io/going-through-someone-elses-code-what-others-face-including-me-and-how-to-tackle-it-1ea70fdc596d?source=rss-afcbddbe6f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
